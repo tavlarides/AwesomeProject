@@ -1,5 +1,5 @@
 import { Text, View, Button } from "react-native";
-import { Screens } from "../consts/screens";
+import Screens from "../consts/screens";
 
 const HomeScreen = ({ navigation }) => {
   return (
